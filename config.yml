@@ -1,0 +1,61 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: nategeslin.com
+paginate: 5
+
+# theme: blank
+# theme: gokarna
+theme: papermod
+
+menu:
+  main:
+    - identifier: Blog
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: Searcg
+      name: Search
+      url: /search/
+      weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# theme specific config
+params:
+  env: production
+  # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: Nate Geslin
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    enabled: true
+    title: "Nate Geslin"
+    subtitle: "I Lead projects and make things"
+    # imageUrl: "https://www.fillmurray.com/425/425"
+    buttons:
+      - name: Posts
+        url: "/posts"
+      - name: Github
+        url: "https://github.com/n8rzz"
+
+    socialIcons:
+      - name: github
+        url: "https://github.com/n8rzz"
+      - name: gitlab
+        url: "https://github.com/n8rzz"
+      # - name: KoFi
+      #   url: "https://ko-fi.com/adityatelange"
+      - name: rss
+        url: "index.xml"
