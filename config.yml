@@ -3,7 +3,7 @@ languageCode: en-us
 title: nategeslin.com
 paginate: 5
 
-# theme: blank
+# theme: nacerous
 # theme: gokarna
 theme: papermod
 
@@ -13,10 +13,14 @@ menu:
       name: Blog
       url: /posts/
       weight: 10
-    - identifier: Searcg
+    - identifier: Search
       name: Search
       url: /search/
       weight: 20
+    - identifier: RSS
+      name: RSS
+      url: /index.xml
+      weight: 30
 
 outputs:
   home:
@@ -27,11 +31,10 @@ outputs:
 # theme specific config
 params:
   env: production
-  # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description: "I Lead projects and I make things"
   author: Nate Geslin
 
-  defaultTheme: auto
-  # disableThemeToggle: true
+  disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
   displayFullLangName: true
@@ -42,20 +45,19 @@ params:
   profileMode:
     enabled: true
     title: "Nate Geslin"
-    subtitle: "I Lead projects and make things"
-    # imageUrl: "https://www.fillmurray.com/425/425"
+    subtitle: "I Lead projects and I make things"
+    imageUrl: "https://www.fillmurray.com/425/425"
     buttons:
-      - name: Posts
-        url: "/posts"
+      - name: Medium
+        url: "https://nategeslin.medium.com/"
       - name: Github
         url: "https://github.com/n8rzz"
-
+      - name: Linkedin
+        url: "https://www.linkedin.com/in/nate-geslin/"
     socialIcons:
       - name: github
         url: "https://github.com/n8rzz"
       - name: gitlab
         url: "https://github.com/n8rzz"
-      # - name: KoFi
-      #   url: "https://ko-fi.com/adityatelange"
       - name: rss
         url: "index.xml"
