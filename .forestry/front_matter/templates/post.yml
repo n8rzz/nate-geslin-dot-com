@@ -19,6 +19,7 @@ fields:
   label: type
 pages:
 - content/posts/i-built-a-mechanical-keyboard.md
+- content/posts/i-created-a-book-for-my-notes-and-you-should-too.md
 - content/posts/lead-lessons-part-1.md
 - content/posts/tinker-with-purpose.md
 - content/posts/use-react-and-feature-flags-to-roll-out-new-ui-components.md
