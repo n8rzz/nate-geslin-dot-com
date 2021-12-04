@@ -1,12 +1,16 @@
 ---
-title: "What I Look for When I Hire Software Engineers"
-subtitle: "It Isn't All About Code"
-date: 2021-11-24T20:06:21-06:00
-tags: ["software engineer", "software", "hiring", "interview"]
+title: What I Look for When I Hire Software Engineers
+subtitle: It Isn't All About Code
+date: 2021-11-24T20:06:21.000-06:00
+tags:
+- software engineer
+- software
+- hiring
+- interview
 type: post
-draft: false
----
+draft: true
 
+---
 Over the years, I have had the pleasure of being a part of the hiring process. My experiences range from being a cog in the wheel of hiring for a massive corporation, and a primary decision-maker for a small start-up.
 
 What makes a good hire? It might not be what you think…
