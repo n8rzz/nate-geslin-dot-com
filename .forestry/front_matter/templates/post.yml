@@ -17,3 +17,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/posts/lead-lessons-part-1.md
