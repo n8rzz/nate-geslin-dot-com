@@ -24,4 +24,5 @@ pages:
 - content/posts/tinker-with-purpose.md
 - content/posts/use-react-and-feature-flags-to-roll-out-new-ui-components.md
 - content/posts/what-i-look-for-when-i-hire-software-engineers-1.md
+- content/posts/why-we-use-layered-html-canvases-at-openscope.md
 - content/posts/write-tests-with-sentences-first-code-second.md
