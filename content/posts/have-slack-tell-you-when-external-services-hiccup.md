@@ -7,11 +7,12 @@ title = "Have Slack Tell You When External Services Hiccup"
 type = "post"
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/1600/0*mmHYSm446dGq_58i)Photo by [John Cafazza](https://unsplash.com/@john_cafazza?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 At [Parallax](https://www.getparallax.com/), we depend on many external services. Some of these services are things that we use internally for development like [LaunchDarkly](https://launchdarkly.com/) or [GitHub](https://github.com/). Others are services that our customers depend on for their business like [HubSpot](https://www.hubspot.com/).
 
-***
+---
 
 Did you know many SaaS providers have webpages dedicated to publishing current status of their service(s)? If you’re an engineer, I’m sure you’ve stumbled on to a status page or two trying to figure out why something wasn’t working.
 
@@ -49,7 +50,7 @@ Slack also provides a feature called _slash commands_. What are slash commands? 
 
 > **Slash Commands** allow users to invoke your app by typing a string into the message composer box.
 
-A slash command can be something fun like `\giphy alrighty then`, which is used to find and post an image from the internet related to the words _“alrighty then” (_you can imagine what we’re looking for here). Or this could be something more serious like `\hangout`, which will create a new [Google Hangout](https://hangouts.google.com/) and post the meeting link wherever the command was originally run.
+A slash command can be something fun like `\giphy alrighty then`, which is used to find and post an image from the internet related to the words \_“alrighty then” (\_you can imagine what we’re looking for here). Or this could be something more serious like `\hangout`, which will create a new [Google Hangout](https://hangouts.google.com/) and post the meeting link wherever the command was originally run.
 
 Slack has [many built in slash commands](https://slack.com/help/articles/201259356-Slash-commands-in-Slack) available right out of the box, for free.
 
@@ -127,20 +128,20 @@ I’ll give you an example. Remember the [Great Facebook Outage](https://enginee
 
 Consolidating status feeds to a single Slack channel, and letting Slack do all the hard work has made it easier for us to be proactive instead of reactive. Issue warnings come to us and we no longer have to track them down.
 
-***
+---
 
 #### References
 
-* [https://www.getparallax.com/](https://www.getparallax.com/ "https://www.getparallax.com/")
-* [https://launchdarkly.com/](https://launchdarkly.com/ "https://launchdarkly.com/")
-* [https://www.hubspot.com/](https://www.hubspot.com/ "https://www.hubspot.com/")
-* [https://github.com/](https://github.com/ "https://github.com/")
-* [https://slack.com/](https://slack.com/ "https://slack.com/")
-* [https://api.slack.com/interactivity/slash-commands](https://api.slack.com/interactivity/slash-commands "https://api.slack.com/interactivity/slash-commands")
-* [https://www.githubstatus.com/](https://www.githubstatus.com/ "https://www.githubstatus.com/")
-* [https://status.launchdarkly.com/](https://status.launchdarkly.com/ "https://status.launchdarkly.com/")
-* [https://status.hubspot.com/](https://status.hubspot.com/ "https://status.hubspot.com/")
-* [https://hangouts.google.com/](https://hangouts.google.com/ "https://hangouts.google.com/")
-* [https://slack.com/help/articles/201259356-Slash-commands-in-Slack](https://slack.com/help/articles/201259356-Slash-commands-in-Slack "https://slack.com/help/articles/201259356-Slash-commands-in-Slack")
-* [https://slack.com/help/articles/201402297-Create-a-channel](https://slack.com/help/articles/201402297-Create-a-channel "https://slack.com/help/articles/201402297-Create-a-channel")
-* [https://engineering.fb.com/2021/10/04/networking-traffic/outage/](https://engineering.fb.com/2021/10/04/networking-traffic/outage/ "https://engineering.fb.com/2021/10/04/networking-traffic/outage/")
+- [https://www.getparallax.com/](https://www.getparallax.com/ "https://www.getparallax.com/")
+- [https://launchdarkly.com/](https://launchdarkly.com/ "https://launchdarkly.com/")
+- [https://www.hubspot.com/](https://www.hubspot.com/ "https://www.hubspot.com/")
+- [https://github.com/](https://github.com/ "https://github.com/")
+- [https://slack.com/](https://slack.com/ "https://slack.com/")
+- [https://api.slack.com/interactivity/slash-commands](https://api.slack.com/interactivity/slash-commands "https://api.slack.com/interactivity/slash-commands")
+- [https://www.githubstatus.com/](https://www.githubstatus.com/ "https://www.githubstatus.com/")
+- [https://status.launchdarkly.com/](https://status.launchdarkly.com/ "https://status.launchdarkly.com/")
+- [https://status.hubspot.com/](https://status.hubspot.com/ "https://status.hubspot.com/")
+- [https://hangouts.google.com/](https://hangouts.google.com/ "https://hangouts.google.com/")
+- [https://slack.com/help/articles/201259356-Slash-commands-in-Slack](https://slack.com/help/articles/201259356-Slash-commands-in-Slack "https://slack.com/help/articles/201259356-Slash-commands-in-Slack")
+- [https://slack.com/help/articles/201402297-Create-a-channel](https://slack.com/help/articles/201402297-Create-a-channel "https://slack.com/help/articles/201402297-Create-a-channel")
+- [https://engineering.fb.com/2021/10/04/networking-traffic/outage/](https://engineering.fb.com/2021/10/04/networking-traffic/outage/ "https://engineering.fb.com/2021/10/04/networking-traffic/outage/")
