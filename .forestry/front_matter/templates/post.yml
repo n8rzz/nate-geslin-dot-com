@@ -18,4 +18,5 @@ fields:
   name: type
   label: type
 pages:
+- content/posts/i-built-a-mechanical-keyboard.md
 - content/posts/lead-lessons-part-1.md
