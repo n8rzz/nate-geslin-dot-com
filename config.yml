@@ -5,7 +5,8 @@ paginate: 5
 
 # theme: nacerous
 # theme: gokarna
-theme: papermod
+# theme: github.com:n8rzz/hugo-PaperMod
+theme: PaperMod
 
 menu:
   main:

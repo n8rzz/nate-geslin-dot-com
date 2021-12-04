@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hiring on nategeslin.com</title>
+    <link>http://localhost:1313/tags/hiring/</link>
+    <description>Recent content in hiring on nategeslin.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Nov 2021 20:06:21 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/hiring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I Look for When I Hire Software Engineers</title>
+      <link>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers/</link>
+      <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers/</guid>
+      <description>Over the years, I have had the pleasure of being a part of the hiring process. My experiences range from being a cog in the wheel of hiring for a massive corporation, and a primary decision-maker for a small start-up.
+What makes a good hire? It might not be what you think…
+ Get Noticed The first step to getting hired at any job is to get noticed. That might be as simple as submitting an application.</description>
+    </item>
+    
+  </channel>
+</rss>

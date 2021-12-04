@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nategeslin.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on nategeslin.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Nov 2021 20:06:21 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/posts/markdown-syntax-guide/</link>
+      <pubDate>Wed, 24 Nov 2021 19:35:18 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/markdown-syntax-guide/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/posts/emoji-support/</link>
+      <pubDate>Wed, 24 Nov 2021 19:37:09 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo and DoIt.</description>
+    </item>
+    
+    <item>
+      <title>What I Look for When I Hire Software Engineers</title>
+      <link>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers/</link>
+      <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers/</guid>
+      <description>Over the years, I have had the pleasure of being a part of the hiring process. My experiences range from being a cog in the wheel of hiring for a massive corporation, and a primary decision-maker for a small start-up.
+What makes a good hire? It might not be what you think…
+ Get Noticed The first step to getting hired at any job is to get noticed. That might be as simple as submitting an application.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://localhost:1313/posts/lorem-ipsum/</link>
+      <pubDate>Wed, 24 Nov 2021 19:36:23 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/lorem-ipsum/</guid>
+      <description>Heading 1 &amp;ldquo;Lorem ipsum dolor sit amet, consectetaur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Lead Lessons, Part 1</title>
+      <link>http://localhost:1313/posts/lead-lessons-part-1/</link>
+      <pubDate>Wed, 25 Nov 2020 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/lead-lessons-part-1/</guid>
+      <description>Leading software projects can be a challenging endeavor. I’ve been leading software projects big and small for the last 5 years. What follows are some lessons I’ve learned through hardship, from peers, and from mentors along the way.
+Photo by Andres Garcia on Unsplash
+  Stress comes from the unknown, an unclear path forward, or both.
+ Things are rarely as bad as they seem. Work towards a plan, and two or three backup plans.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
