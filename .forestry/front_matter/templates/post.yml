@@ -21,3 +21,4 @@ pages:
 - content/posts/i-built-a-mechanical-keyboard.md
 - content/posts/lead-lessons-part-1.md
 - content/posts/tinker-with-purpose.md
+- content/posts/use-react-and-feature-flags-to-roll-out-new-ui-components.md
