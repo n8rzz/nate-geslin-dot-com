@@ -18,6 +18,7 @@ fields:
   name: type
   label: type
 pages:
+- content/posts/have-slack-tell-you-when-external-services-hiccup.md
 - content/posts/how-i-manage-my-personal-projects.md
 - content/posts/i-built-a-mechanical-keyboard.md
 - content/posts/i-created-a-book-for-my-notes-and-you-should-too.md
