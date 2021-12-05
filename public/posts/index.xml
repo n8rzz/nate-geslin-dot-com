@@ -6,7 +6,7 @@
     <description>Recent content in Posts on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 20:06:21 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/posts/markdown-syntax-guide/</link>
@@ -23,6 +23,43 @@
       
       <guid>http://localhost:1313/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo and DoIt.</description>
+    </item>
+    
+    <item>
+      <title>Have Slack Tell You When External Services Hiccup</title>
+      <link>http://localhost:1313/posts/have-slack-tell-you-when-external-services-hiccup/</link>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/have-slack-tell-you-when-external-services-hiccup/</guid>
+      <description>Photo by John Cafazza on Unsplash
+At Parallax, we depend on many external services. Some of these services are things that we use internally for development like LaunchDarkly or GitHub. Others are services that our customers depend on for their business like HubSpot.
+ Did you know many SaaS providers have webpages dedicated to publishing current status of their service(s)? If you’re an engineer, I’m sure you’ve stumbled on to a status page or two trying to figure out why something wasn’t working.</description>
+    </item>
+    
+    <item>
+      <title>How I Manage My Personal Projects</title>
+      <link>http://localhost:1313/posts/how-i-manage-my-personal-projects/</link>
+      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/how-i-manage-my-personal-projects/</guid>
+      <description>Photo by Andrew Neel on Unsplash
+Do you find yourself tinkering with something new? Do you find yourself working on some cool new idea in your free time?
+Yeah, me too.
+Do you keep track of what you want to work on next? You are keeping track of the work, right?
+ Over the years I have worked on many personal projects. I’m a builder and I like to build things.</description>
+    </item>
+    
+    <item>
+      <title>Your First Year As A Software Engineer</title>
+      <link>http://localhost:1313/posts/your-first-year-as-a-software-engineer/</link>
+      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/your-first-year-as-a-software-engineer/</guid>
+      <description>Photo by Jasmin Sessler on Unsplash
+You made it past the interview and you signed the offer. You’re hired! Now you have a shiny new laptop in front of you and are about to take on the world of software engineering…
+Ruh-roh! Now what?
+Software engineering is not like other jobs, this is a whole new world.
+When I landed my first engineering job, I had spent the previous 10 years in manufacturing.</description>
     </item>
     
     <item>
@@ -43,6 +80,90 @@ What makes a good hire? It might not be what you think…
       
       <guid>http://localhost:1313/posts/lorem-ipsum/</guid>
       <description>Heading 1 &amp;ldquo;Lorem ipsum dolor sit amet, consectetaur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Why We Use Layered HTML Canvases At OpenScope</title>
+      <link>http://localhost:1313/posts/why-we-use-layered-html-canvases-at-openscope/</link>
+      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/why-we-use-layered-html-canvases-at-openscope/</guid>
+      <description>OpenScope Air Traffic Control Simulator
+For several years, I was an active maintainer of a project called OpenScope. OpenScope is a browser-based air traffic control simulator driven by JavaScript, HTML canvas, and json. There is no back end, it’s all done in the browser. It’s also open source, anybody can contribute as long as you follow the guidelines and can speak aviation.
+Problem When I first started contributing to the project, there were issues with performance.</description>
+    </item>
+    
+    <item>
+      <title>What I Look For When I Hire Software Engineers</title>
+      <link>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</link>
+      <pubDate>Sat, 20 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</guid>
+      <description>Photo by Clem Onojeghuo on Unsplash
+Over the years, I have had the pleasure of being a part of the hiring process. My experiences range from being a cog in the wheel of hiring for a massive corporation, and a primary decision-maker for a small start-up.
+What makes a good hire? It might not be what you think…
+ Get Noticed The first step to getting hired at any job is to get noticed.</description>
+    </item>
+    
+    <item>
+      <title>I Created a Book for My Notes and You Should Too!</title>
+      <link>http://localhost:1313/posts/i-created-a-book-for-my-notes-and-you-should-too/</link>
+      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/i-created-a-book-for-my-notes-and-you-should-too/</guid>
+      <description>Photo by Thought Catalog on Unsplash
+It started like this: I was a young Software Engineer and I wrote things down. My mentor told me to write things down and that it was a great habit to get into.
+“Don’t write everything down”, he said, “just things that are important.”
+That way I don’t have to burden myself with remembering everything, instead I can refer to my notebook. Most of these items were little notes about problems I would run into, but always forgot how to solve them.</description>
+    </item>
+    
+    <item>
+      <title>Write Tests With Sentences First, Code Second</title>
+      <link>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</link>
+      <pubDate>Fri, 05 Nov 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</guid>
+      <description>Photo by Ben White on Unsplash
+Problem In software, naming is often said to be one of the hardest parts. From what I’ve seen, writing tests is right up there too! I see people struggle with tests all the time. They get overwhelmed or frustrated and just skip it, which is a bad thing for everybody.
+Naming is hard because developers are rarely given a guide to naming. Over time, they learn tips and tricks and develop strategies to make naming easier.</description>
+    </item>
+    
+    <item>
+      <title>Use React and Feature Flags To Roll Out New UI Components</title>
+      <link>http://localhost:1313/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</link>
+      <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</guid>
+      <description>Recently, at Parallax, my team and I released a sweeping update to our user interface. We updated buttons, inputs, selects, dialogs, and many other visual elements. What follows is an explanation of one small part of that effort.
+ Problem In the summer of 2021, my team and I were presented with a few interesting challenges. The next set of work would entail:
+ Update many of our shared components with new styles (buttons, inputs, selects, dialogs, etc) Many of these updates would affect design, but we would also take the opportunity to slim down component APIs We should plan on not being able to release everything at once.</description>
+    </item>
+    
+    <item>
+      <title>Tinker With Purpose</title>
+      <link>http://localhost:1313/posts/tinker-with-purpose/</link>
+      <pubDate>Sat, 23 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tinker-with-purpose/</guid>
+      <description>Photo by Sigmund on Unsplash
+The word _Tinker _is defined as:
+ To repair, adjust, or work with something in an unskilled or experimental manner
+ Early in my career as a Software Engineer, I had a conversation with one of my first mentors that went something like this:
+ Mentor: “You’re a tinkerer, you know”
+  Me: “Why yes, I suppose I am”
+  Mentor: “Tinkering can be bad, unless you’re tinkering with purpose.</description>
+    </item>
+    
+    <item>
+      <title>I Built A Mechanical Keyboard</title>
+      <link>http://localhost:1313/posts/i-built-a-mechanical-keyboard/</link>
+      <pubDate>Thu, 02 Sep 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/i-built-a-mechanical-keyboard/</guid>
+      <description>The finished build: 65% Lucky Jade mechanical keyboard.
+Introduction I wanted to share with you today my latest mechanical keyboard build.
+It’s been a little over two years since my last build, and this makes my 3rd full build. I am by no means an expert, but I have been lurking around the hobby for a number of years.
+I’ll mention straight away that this build could have gone better. Some things went well; however, there were some rookie mistakes I made early on in the build that would have made for a much softer landing in the end.</description>
     </item>
     
     <item>

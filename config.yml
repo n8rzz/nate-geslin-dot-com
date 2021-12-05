@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://nate-geslin-dot-com.vercel.app
 languageCode: en-us
 title: nategeslin.com
 paginate: 5

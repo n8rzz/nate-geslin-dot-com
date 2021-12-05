@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UI on nategeslin.com</title>
+    <link>http://localhost:1313/tags/ui/</link>
+    <description>Recent content in UI on nategeslin.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Oct 2021 05:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use React and Feature Flags To Roll Out New UI Components</title>
+      <link>http://localhost:1313/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</link>
+      <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</guid>
+      <description>Recently, at Parallax, my team and I released a sweeping update to our user interface. We updated buttons, inputs, selects, dialogs, and many other visual elements. What follows is an explanation of one small part of that effort.
+ Problem In the summer of 2021, my team and I were presented with a few interesting challenges. The next set of work would entail:
+ Update many of our shared components with new styles (buttons, inputs, selects, dialogs, etc) Many of these updates would affect design, but we would also take the opportunity to slim down component APIs We should plan on not being able to release everything at once.</description>
+    </item>
+    
+  </channel>
+</rss>

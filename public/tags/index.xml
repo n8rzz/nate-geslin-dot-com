@@ -6,7 +6,133 @@
     <description>Recent content in Tags on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 20:06:21 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Success</title>
+      <link>http://localhost:1313/tags/customer-success/</link>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/customer-success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saas Tools</title>
+      <link>http://localhost:1313/tags/saas-tools/</link>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/saas-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>http://localhost:1313/tags/slack/</link>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/slack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>http://localhost:1313/tags/software-engineering/</link>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status</title>
+      <link>http://localhost:1313/tags/status/</link>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Growth</title>
+      <link>http://localhost:1313/tags/personal-growth/</link>
+      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/personal-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Management</title>
+      <link>http://localhost:1313/tags/project-management/</link>
+      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/project-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side Project</title>
+      <link>http://localhost:1313/tags/side-project/</link>
+      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/side-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career Advice</title>
+      <link>http://localhost:1313/tags/career-advice/</link>
+      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/career-advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>http://localhost:1313/tags/coding/</link>
+      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imposter Syndrome</title>
+      <link>http://localhost:1313/tags/imposter-syndrome/</link>
+      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/imposter-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>http://localhost:1313/tags/software-development/</link>
+      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hiring</title>
       <link>http://localhost:1313/tags/hiring/</link>
@@ -17,7 +143,7 @@
     </item>
     
     <item>
-      <title>interview</title>
+      <title>Interview</title>
       <link>http://localhost:1313/tags/interview/</link>
       <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
       
@@ -26,7 +152,7 @@
     </item>
     
     <item>
-      <title>software</title>
+      <title>Software</title>
       <link>http://localhost:1313/tags/software/</link>
       <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
       
@@ -98,11 +224,173 @@
     </item>
     
     <item>
-      <title> Project Management</title>
-      <link>http://localhost:1313/tags/project-management/</link>
-      <pubDate>Wed, 25 Nov 2020 06:00:00 +0000</pubDate>
+      <title>Airplanes</title>
+      <link>http://localhost:1313/tags/airplanes/</link>
+      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/project-management/</guid>
+      <guid>http://localhost:1313/tags/airplanes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atc</title>
+      <link>http://localhost:1313/tags/atc/</link>
+      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/atc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canvas</title>
+      <link>http://localhost:1313/tags/canvas/</link>
+      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulator</title>
+      <link>http://localhost:1313/tags/simulator/</link>
+      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/simulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>http://localhost:1313/tags/engineering/</link>
+      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/tags/notes/</link>
+      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/tags/productivity/</link>
+      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity Hacks</title>
+      <link>http://localhost:1313/tags/productivity-hacks/</link>
+      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/productivity-hacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Testing</title>
+      <link>http://localhost:1313/tags/software-testing/</link>
+      <pubDate>Fri, 05 Nov 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI</title>
+      <link>http://localhost:1313/tags/ui/</link>
+      <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/tags/design/</link>
+      <pubDate>Sat, 23 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>http://localhost:1313/tags/growth/</link>
+      <pubDate>Sat, 23 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Sat, 23 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Keyboards</title>
+      <link>http://localhost:1313/tags/keyboards/</link>
+      <pubDate>Thu, 02 Sep 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/keyboards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Mechkey</title>
+      <link>http://localhost:1313/tags/mechkey/</link>
+      <pubDate>Thu, 02 Sep 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mechkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical Keyboards</title>
+      <link>http://localhost:1313/tags/mechanical-keyboards/</link>
+      <pubDate>Thu, 02 Sep 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mechanical-keyboards/</guid>
       <description></description>
     </item>
     
@@ -121,15 +409,6 @@
       <pubDate>Wed, 25 Nov 2020 06:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Development</title>
-      <link>http://localhost:1313/tags/software-development/</link>
-      <pubDate>Wed, 25 Nov 2020 06:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/software-development/</guid>
       <description></description>
     </item>
     

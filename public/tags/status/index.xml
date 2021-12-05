@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Status on nategeslin.com</title>
+    <link>http://localhost:1313/tags/status/</link>
+    <description>Recent content in Status on nategeslin.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Dec 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/status/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Have Slack Tell You When External Services Hiccup</title>
+      <link>http://localhost:1313/posts/have-slack-tell-you-when-external-services-hiccup/</link>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/have-slack-tell-you-when-external-services-hiccup/</guid>
+      <description>Photo by John Cafazza on Unsplash
+At Parallax, we depend on many external services. Some of these services are things that we use internally for development like LaunchDarkly or GitHub. Others are services that our customers depend on for their business like HubSpot.
+ Did you know many SaaS providers have webpages dedicated to publishing current status of their service(s)? If you’re an engineer, I’m sure you’ve stumbled on to a status page or two trying to figure out why something wasn’t working.</description>
+    </item>
+    
+  </channel>
+</rss>

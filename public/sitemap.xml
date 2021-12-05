@@ -8,25 +8,76 @@
     <loc>http://localhost:1313/posts/emoji-support/</loc>
     <lastmod>2021-11-24T19:37:09-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/customer-success/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/have-slack-tell-you-when-external-services-hiccup/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/saas-tools/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/slack/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-engineering/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/status/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2021-12-03T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/git/</loc>
+    <lastmod>2021-11-28T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-i-manage-my-personal-projects/</loc>
+    <lastmod>2021-11-28T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal-growth/</loc>
+    <lastmod>2021-11-28T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/project-management/</loc>
+    <lastmod>2021-11-28T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/side-project/</loc>
+    <lastmod>2021-11-28T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/career-advice/</loc>
+    <lastmod>2021-11-25T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/coding/</loc>
+    <lastmod>2021-11-25T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/imposter-syndrome/</loc>
+    <lastmod>2021-11-25T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming/</loc>
+    <lastmod>2021-11-25T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-development/</loc>
+    <lastmod>2021-11-25T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/your-first-year-as-a-software-engineer/</loc>
+    <lastmod>2021-11-25T06:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/hiring/</loc>
     <lastmod>2021-11-24T20:06:21-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/interview/</loc>
     <lastmod>2021-11-24T20:06:21-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2021-11-24T20:06:21-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2021-11-24T20:06:21-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/software/</loc>
     <lastmod>2021-11-24T20:06:21-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/software-engineer/</loc>
-    <lastmod>2021-11-24T20:06:21-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-11-24T20:06:21-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers/</loc>
@@ -53,8 +104,83 @@
     <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2021-11-24T19:35:18-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/project-management/</loc>
-    <lastmod>2020-11-25T06:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/airplanes/</loc>
+    <lastmod>2021-11-22T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/atc/</loc>
+    <lastmod>2021-11-22T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/canvas/</loc>
+    <lastmod>2021-11-22T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript/</loc>
+    <lastmod>2021-11-22T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/simulator/</loc>
+    <lastmod>2021-11-22T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-we-use-layered-html-canvases-at-openscope/</loc>
+    <lastmod>2021-11-22T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</loc>
+    <lastmod>2021-11-20T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/engineering/</loc>
+    <lastmod>2021-11-18T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/i-created-a-book-for-my-notes-and-you-should-too/</loc>
+    <lastmod>2021-11-18T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/notes/</loc>
+    <lastmod>2021-11-18T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/productivity/</loc>
+    <lastmod>2021-11-18T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/productivity-hacks/</loc>
+    <lastmod>2021-11-18T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-testing/</loc>
+    <lastmod>2021-11-05T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</loc>
+    <lastmod>2021-11-05T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/react/</loc>
+    <lastmod>2021-10-30T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ui/</loc>
+    <lastmod>2021-10-30T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</loc>
+    <lastmod>2021-10-30T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
+    <lastmod>2021-10-30T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2021-10-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/growth/</loc>
+    <lastmod>2021-10-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2021-10-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tinker-with-purpose/</loc>
+    <lastmod>2021-10-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/keyboards/</loc>
+    <lastmod>2021-09-02T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mechkey/</loc>
+    <lastmod>2021-09-02T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/i-built-a-mechanical-keyboard/</loc>
+    <lastmod>2021-09-02T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mechanical-keyboards/</loc>
+    <lastmod>2021-09-02T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/agile/</loc>
     <lastmod>2020-11-25T06:00:00+00:00</lastmod>
@@ -63,9 +189,6 @@
     <lastmod>2020-11-25T06:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/leadership/</loc>
-    <lastmod>2020-11-25T06:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/software-development/</loc>
     <lastmod>2020-11-25T06:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

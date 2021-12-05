@@ -6,7 +6,70 @@
     <description>Recent content in Software Development on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2020 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your First Year As A Software Engineer</title>
+      <link>http://localhost:1313/posts/your-first-year-as-a-software-engineer/</link>
+      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/your-first-year-as-a-software-engineer/</guid>
+      <description>Photo by Jasmin Sessler on Unsplash
+You made it past the interview and you signed the offer. You’re hired! Now you have a shiny new laptop in front of you and are about to take on the world of software engineering…
+Ruh-roh! Now what?
+Software engineering is not like other jobs, this is a whole new world.
+When I landed my first engineering job, I had spent the previous 10 years in manufacturing.</description>
+    </item>
+    
+    <item>
+      <title>What I Look For When I Hire Software Engineers</title>
+      <link>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</link>
+      <pubDate>Sat, 20 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</guid>
+      <description>Photo by Clem Onojeghuo on Unsplash
+Over the years, I have had the pleasure of being a part of the hiring process. My experiences range from being a cog in the wheel of hiring for a massive corporation, and a primary decision-maker for a small start-up.
+What makes a good hire? It might not be what you think…
+ Get Noticed The first step to getting hired at any job is to get noticed.</description>
+    </item>
+    
+    <item>
+      <title>I Created a Book for My Notes and You Should Too!</title>
+      <link>http://localhost:1313/posts/i-created-a-book-for-my-notes-and-you-should-too/</link>
+      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/i-created-a-book-for-my-notes-and-you-should-too/</guid>
+      <description>Photo by Thought Catalog on Unsplash
+It started like this: I was a young Software Engineer and I wrote things down. My mentor told me to write things down and that it was a great habit to get into.
+“Don’t write everything down”, he said, “just things that are important.”
+That way I don’t have to burden myself with remembering everything, instead I can refer to my notebook. Most of these items were little notes about problems I would run into, but always forgot how to solve them.</description>
+    </item>
+    
+    <item>
+      <title>Write Tests With Sentences First, Code Second</title>
+      <link>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</link>
+      <pubDate>Fri, 05 Nov 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</guid>
+      <description>Photo by Ben White on Unsplash
+Problem In software, naming is often said to be one of the hardest parts. From what I’ve seen, writing tests is right up there too! I see people struggle with tests all the time. They get overwhelmed or frustrated and just skip it, which is a bad thing for everybody.
+Naming is hard because developers are rarely given a guide to naming. Over time, they learn tips and tricks and develop strategies to make naming easier.</description>
+    </item>
+    
+    <item>
+      <title>Tinker With Purpose</title>
+      <link>http://localhost:1313/posts/tinker-with-purpose/</link>
+      <pubDate>Sat, 23 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tinker-with-purpose/</guid>
+      <description>Photo by Sigmund on Unsplash
+The word _Tinker _is defined as:
+ To repair, adjust, or work with something in an unskilled or experimental manner
+ Early in my career as a Software Engineer, I had a conversation with one of my first mentors that went something like this:
+ Mentor: “You’re a tinkerer, you know”
+  Me: “Why yes, I suppose I am”
+  Mentor: “Tinkering can be bad, unless you’re tinkering with purpose.</description>
+    </item>
+    
     <item>
       <title>Lead Lessons, Part 1</title>
       <link>http://localhost:1313/posts/lead-lessons-part-1/</link>

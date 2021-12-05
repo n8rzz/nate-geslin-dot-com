@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Engineering on nategeslin.com</title>
+    <link>http://localhost:1313/tags/software-engineering/</link>
+    <description>Recent content in Software Engineering on nategeslin.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Dec 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Have Slack Tell You When External Services Hiccup</title>
+      <link>http://localhost:1313/posts/have-slack-tell-you-when-external-services-hiccup/</link>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/have-slack-tell-you-when-external-services-hiccup/</guid>
+      <description>Photo by John Cafazza on Unsplash
+At Parallax, we depend on many external services. Some of these services are things that we use internally for development like LaunchDarkly or GitHub. Others are services that our customers depend on for their business like HubSpot.
+ Did you know many SaaS providers have webpages dedicated to publishing current status of their service(s)? If you’re an engineer, I’m sure you’ve stumbled on to a status page or two trying to figure out why something wasn’t working.</description>
+    </item>
+    
+    <item>
+      <title>How I Manage My Personal Projects</title>
+      <link>http://localhost:1313/posts/how-i-manage-my-personal-projects/</link>
+      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/how-i-manage-my-personal-projects/</guid>
+      <description>Photo by Andrew Neel on Unsplash
+Do you find yourself tinkering with something new? Do you find yourself working on some cool new idea in your free time?
+Yeah, me too.
+Do you keep track of what you want to work on next? You are keeping track of the work, right?
+ Over the years I have worked on many personal projects. I’m a builder and I like to build things.</description>
+    </item>
+    
+    <item>
+      <title>I Built A Mechanical Keyboard</title>
+      <link>http://localhost:1313/posts/i-built-a-mechanical-keyboard/</link>
+      <pubDate>Thu, 02 Sep 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/i-built-a-mechanical-keyboard/</guid>
+      <description>The finished build: 65% Lucky Jade mechanical keyboard.
+Introduction I wanted to share with you today my latest mechanical keyboard build.
+It’s been a little over two years since my last build, and this makes my 3rd full build. I am by no means an expert, but I have been lurking around the hobby for a number of years.
+I’ll mention straight away that this build could have gone better. Some things went well; however, there were some rookie mistakes I made early on in the build that would have made for a much softer landing in the end.</description>
+    </item>
+    
+  </channel>
+</rss>

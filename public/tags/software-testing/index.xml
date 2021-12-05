@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Testing on nategeslin.com</title>
+    <link>http://localhost:1313/tags/software-testing/</link>
+    <description>Recent content in Software Testing on nategeslin.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Nov 2021 05:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write Tests With Sentences First, Code Second</title>
+      <link>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</link>
+      <pubDate>Fri, 05 Nov 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</guid>
+      <description>Photo by Ben White on Unsplash
+Problem In software, naming is often said to be one of the hardest parts. From what I’ve seen, writing tests is right up there too! I see people struggle with tests all the time. They get overwhelmed or frustrated and just skip it, which is a bad thing for everybody.
+Naming is hard because developers are rarely given a guide to naming. Over time, they learn tips and tricks and develop strategies to make naming easier.</description>
+    </item>
+    
+  </channel>
+</rss>
