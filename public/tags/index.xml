@@ -2,415 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on nategeslin.com</title>
-    <link>http://nate-geslin-dot-com.vercel.app/tags/</link>
+    <link>https://nate-geslin-dot-com.vercel.app:1313/tags/</link>
     <description>Recent content in Tags on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://nate-geslin-dot-com.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2020 06:00:00 +0000</lastBuildDate><atom:link href="https://nate-geslin-dot-com.vercel.app:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Customer Success</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/customer-success/</link>
-      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/customer-success/</guid>
+      <title> Project Management</title>
+      <link>https://nate-geslin-dot-com.vercel.app:1313/tags/project-management/</link>
+      <pubDate>Wed, 25 Nov 2020 06:00:00 +0000</pubDate>
+      
+      <guid>https://nate-geslin-dot-com.vercel.app:1313/tags/project-management/</guid>
       <description></description>
     </item>
-
-    <item>
-      <title>Saas Tools</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/saas-tools/</link>
-      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/saas-tools/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Slack</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/slack/</link>
-      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/slack/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Software Engineering</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/software-engineering/</link>
-      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/software-engineering/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Status</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/status/</link>
-      <pubDate>Fri, 03 Dec 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/status/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Git</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/git/</link>
-      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/git/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Personal Growth</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/personal-growth/</link>
-      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/personal-growth/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Project Management</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/project-management/</link>
-      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/project-management/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Side Project</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/side-project/</link>
-      <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/side-project/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Career Advice</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/career-advice/</link>
-      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/career-advice/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Coding</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/coding/</link>
-      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/coding/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Imposter Syndrome</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/imposter-syndrome/</link>
-      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/imposter-syndrome/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Programming</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/programming/</link>
-      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/programming/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Software Development</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/software-development/</link>
-      <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/software-development/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>hiring</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/hiring/</link>
-      <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/hiring/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Interview</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/interview/</link>
-      <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/interview/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Software</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/software/</link>
-      <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/software/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>software engineer</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/software-engineer/</link>
-      <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/software-engineer/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>emoji</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/emoji/</link>
-      <pubDate>Wed, 24 Nov 2021 19:37:09 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/emoji/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>def</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/def/</link>
-      <pubDate>Wed, 24 Nov 2021 19:36:23 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/def/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>xyz</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/xyz/</link>
-      <pubDate>Wed, 24 Nov 2021 19:36:23 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/xyz/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>css</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/css/</link>
-      <pubDate>Wed, 24 Nov 2021 19:35:18 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/css/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>html</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/html/</link>
-      <pubDate>Wed, 24 Nov 2021 19:35:18 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/html/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>markdown</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/markdown/</link>
-      <pubDate>Wed, 24 Nov 2021 19:35:18 -0600</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/markdown/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Airplanes</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/airplanes/</link>
-      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/airplanes/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Atc</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/atc/</link>
-      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/atc/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Canvas</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/canvas/</link>
-      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/canvas/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>JavaScript</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/javascript/</link>
-      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/javascript/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Simulator</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/simulator/</link>
-      <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/simulator/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Engineering</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/engineering/</link>
-      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/engineering/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Notes</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/notes/</link>
-      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/notes/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Productivity</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/productivity/</link>
-      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/productivity/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Productivity Hacks</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/productivity-hacks/</link>
-      <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/productivity-hacks/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Software Testing</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/software-testing/</link>
-      <pubDate>Fri, 05 Nov 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/software-testing/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>React</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/react/</link>
-      <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/react/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>UI</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/ui/</link>
-      <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/ui/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Web Development</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/web-development/</link>
-      <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/web-development/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Design</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/design/</link>
-      <pubDate>Sat, 23 Oct 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/design/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Growth</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/growth/</link>
-      <pubDate>Sat, 23 Oct 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/growth/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Learning</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/learning/</link>
-      <pubDate>Sat, 23 Oct 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/learning/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title> Keyboards</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/keyboards/</link>
-      <pubDate>Thu, 02 Sep 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/keyboards/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title> Mechkey</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/mechkey/</link>
-      <pubDate>Thu, 02 Sep 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/mechkey/</guid>
-      <description></description>
-    </item>
-
-    <item>
-      <title>Mechanical Keyboards</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/mechanical-keyboards/</link>
-      <pubDate>Thu, 02 Sep 2021 05:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/mechanical-keyboards/</guid>
-      <description></description>
-    </item>
-
+    
     <item>
       <title>Agile</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/agile/</link>
+      <link>https://nate-geslin-dot-com.vercel.app:1313/tags/agile/</link>
       <pubDate>Wed, 25 Nov 2020 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/agile/</guid>
+      
+      <guid>https://nate-geslin-dot-com.vercel.app:1313/tags/agile/</guid>
       <description></description>
     </item>
-
+    
     <item>
       <title>Leadership</title>
-      <link>http://nate-geslin-dot-com.vercel.app/tags/leadership/</link>
+      <link>https://nate-geslin-dot-com.vercel.app:1313/tags/leadership/</link>
       <pubDate>Wed, 25 Nov 2020 06:00:00 +0000</pubDate>
-
-      <guid>http://nate-geslin-dot-com.vercel.app/tags/leadership/</guid>
+      
+      <guid>https://nate-geslin-dot-com.vercel.app:1313/tags/leadership/</guid>
       <description></description>
     </item>
-
+    
+    <item>
+      <title>Software Development</title>
+      <link>https://nate-geslin-dot-com.vercel.app:1313/tags/software-development/</link>
+      <pubDate>Wed, 25 Nov 2020 06:00:00 +0000</pubDate>
+      
+      <guid>https://nate-geslin-dot-com.vercel.app:1313/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
