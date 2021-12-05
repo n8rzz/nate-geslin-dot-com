@@ -1,40 +1,28 @@
+---
 baseURL: https://nate-geslin-dot-com.vercel.app
 languageCode: en-us
 title: nategeslin.com
 paginate: 5
-
-# theme: nacerous
-# theme: gokarna
-# theme: github.com:n8rzz/hugo-PaperMod
 theme: PaperMod
-
 menu:
   main:
-    - identifier: Blog
-      name: Blog
-      url: /posts/
-      weight: 10
-    - identifier: Search
-      name: Search
-      url: /search/
-      weight: 20
-    - identifier: RSS
-      name: RSS
-      url: /index.xml
-      weight: 30
-
+  - url: https://nate-geslin-dot-com.vercel.app/index.xml
+    name: RSS
+    weight: 3
+    identifier: RSS
+  - url: "/posts/"
+    name: Blog
+    weight: 1
+    identifier: Blog
 outputs:
   home:
-    - HTML
-    - RSS
-    - JSON
-
-# theme specific config
+  - HTML
+  - RSS
+  - JSON
 params:
   env: production
-  description: "I Lead projects and I make things"
+  description: I Lead projects and I make things
   author: Nate Geslin
-
   disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
@@ -42,23 +30,22 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-
   profileMode:
     enabled: true
-    title: "Nate Geslin"
-    subtitle: "I Lead projects and I make things"
-    imageUrl: "https://www.fillmurray.com/425/425"
+    title: Nate Geslin
+    subtitle: I Lead projects and I make things
+    imageUrl: https://www.fillmurray.com/425/425
     buttons:
-      - name: Medium
-        url: "https://nategeslin.medium.com/"
-      - name: Github
-        url: "https://github.com/n8rzz"
-      - name: Linkedin
-        url: "https://www.linkedin.com/in/nate-geslin/"
+    - name: Medium
+      url: https://nategeslin.medium.com/
+    - name: Github
+      url: https://github.com/n8rzz
+    - name: Linkedin
+      url: https://www.linkedin.com/in/nate-geslin/
     socialIcons:
-      - name: github
-        url: "https://github.com/n8rzz"
-      - name: gitlab
-        url: "https://github.com/n8rzz"
-      - name: rss
-        url: "index.xml"
+    - name: github
+      url: https://github.com/n8rzz
+    - name: gitlab
+      url: https://github.com/n8rzz
+    - name: rss
+      url: index.xml
