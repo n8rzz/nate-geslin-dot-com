@@ -1,6 +1,5 @@
 +++
 date = 2020-11-25T06:00:00Z
-draft = true
 subtitle = ""
 tags = ["Leadership", "Agile", " Project Management", "Software Development"]
 title = "Lead Lessons, Part 1"
