@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Interview on nategeslin.com</title>
-    <link>http://localhost:1313/tags/interview/</link>
+    <link>http://nate-geslin-dot-com.vercel.app/tags/interview/</link>
     <description>Recent content in Interview on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Nov 2021 20:06:21 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 20:06:21 -0600</lastBuildDate><atom:link href="http://nate-geslin-dot-com.vercel.app/tags/interview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What I Look for When I Hire Software Engineers</title>
-      <link>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/what-i-look-for-when-i-hire-software-engineers/</link>
       <pubDate>Wed, 24 Nov 2021 20:06:21 -0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/what-i-look-for-when-i-hire-software-engineers/</guid>
       <description>Over the years, I have had the pleasure of being a part of the hiring process. My experiences range from being a cog in the wheel of hiring for a massive corporation, and a primary decision-maker for a small start-up.
 What makes a good hire? It might not be what you think…
  Get Noticed The first step to getting hired at any job is to get noticed. That might be as simple as submitting an application.</description>
     </item>
-    
+
     <item>
       <title>What I Look For When I Hire Software Engineers</title>
-      <link>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/what-i-look-for-when-i-hire-software-engineers-1/</link>
       <pubDate>Sat, 20 Nov 2021 06:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/what-i-look-for-when-i-hire-software-engineers-1/</guid>
       <description>Photo by Clem Onojeghuo on Unsplash
 Over the years, I have had the pleasure of being a part of the hiring process. My experiences range from being a cog in the wheel of hiring for a massive corporation, and a primary decision-maker for a small start-up.
 What makes a good hire? It might not be what you think…
  Get Noticed The first step to getting hired at any job is to get noticed.</description>
     </item>
-    
+
   </channel>
 </rss>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notes on nategeslin.com</title>
-    <link>http://localhost:1313/tags/notes/</link>
+    <link>http://nate-geslin-dot-com.vercel.app/tags/notes/</link>
     <description>Recent content in Notes on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://nate-geslin-dot-com.vercel.app/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Created a Book for My Notes and You Should Too!</title>
-      <link>http://localhost:1313/posts/i-created-a-book-for-my-notes-and-you-should-too/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/i-created-a-book-for-my-notes-and-you-should-too/</link>
       <pubDate>Thu, 18 Nov 2021 06:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/i-created-a-book-for-my-notes-and-you-should-too/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/i-created-a-book-for-my-notes-and-you-should-too/</guid>
       <description>Photo by Thought Catalog on Unsplash
 It started like this: I was a young Software Engineer and I wrote things down. My mentor told me to write things down and that it was a great habit to get into.
 “Don’t write everything down”, he said, “just things that are important.”
 That way I don’t have to burden myself with remembering everything, instead I can refer to my notebook. Most of these items were little notes about problems I would run into, but always forgot how to solve them.</description>
     </item>
-    
+
   </channel>
 </rss>

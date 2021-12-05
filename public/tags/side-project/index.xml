@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Side Project on nategeslin.com</title>
-    <link>http://localhost:1313/tags/side-project/</link>
+    <link>http://nate-geslin-dot-com.vercel.app/tags/side-project/</link>
     <description>Recent content in Side Project on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/side-project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://nate-geslin-dot-com.vercel.app/tags/side-project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Manage My Personal Projects</title>
-      <link>http://localhost:1313/posts/how-i-manage-my-personal-projects/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/how-i-manage-my-personal-projects/</link>
       <pubDate>Sun, 28 Nov 2021 06:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/how-i-manage-my-personal-projects/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/how-i-manage-my-personal-projects/</guid>
       <description>Photo by Andrew Neel on Unsplash
 Do you find yourself tinkering with something new? Do you find yourself working on some cool new idea in your free time?
 Yeah, me too.
 Do you keep track of what you want to work on next? You are keeping track of the work, right?
  Over the years I have worked on many personal projects. I’m a builder and I like to build things.</description>
     </item>
-    
+
   </channel>
 </rss>

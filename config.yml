@@ -6,7 +6,7 @@ paginate: 5
 theme: PaperMod
 menu:
   main:
-  - url: https://nate-geslin-dot-com.vercel.app/index.xml
+  - url: nate-geslin-dot-com.vercel.app/index.xml
     name: RSS
     weight: 3
     identifier: RSS

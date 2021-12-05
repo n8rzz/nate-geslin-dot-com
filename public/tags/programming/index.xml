@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Programming on nategeslin.com</title>
-    <link>http://localhost:1313/tags/programming/</link>
+    <link>http://nate-geslin-dot-com.vercel.app/tags/programming/</link>
     <description>Recent content in Programming on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://nate-geslin-dot-com.vercel.app/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Your First Year As A Software Engineer</title>
-      <link>http://localhost:1313/posts/your-first-year-as-a-software-engineer/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/your-first-year-as-a-software-engineer/</link>
       <pubDate>Thu, 25 Nov 2021 06:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/your-first-year-as-a-software-engineer/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/your-first-year-as-a-software-engineer/</guid>
       <description>Photo by Jasmin Sessler on Unsplash
 You made it past the interview and you signed the offer. You’re hired! Now you have a shiny new laptop in front of you and are about to take on the world of software engineering…
 Ruh-roh! Now what?
 Software engineering is not like other jobs, this is a whole new world.
 When I landed my first engineering job, I had spent the previous 10 years in manufacturing.</description>
     </item>
-    
+
     <item>
       <title>What I Look For When I Hire Software Engineers</title>
-      <link>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/what-i-look-for-when-i-hire-software-engineers-1/</link>
       <pubDate>Sat, 20 Nov 2021 06:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/what-i-look-for-when-i-hire-software-engineers-1/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/what-i-look-for-when-i-hire-software-engineers-1/</guid>
       <description>Photo by Clem Onojeghuo on Unsplash
 Over the years, I have had the pleasure of being a part of the hiring process. My experiences range from being a cog in the wheel of hiring for a massive corporation, and a primary decision-maker for a small start-up.
 What makes a good hire? It might not be what you think…
  Get Noticed The first step to getting hired at any job is to get noticed.</description>
     </item>
-    
+
     <item>
       <title>Write Tests With Sentences First, Code Second</title>
-      <link>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/write-tests-with-sentences-first-code-second/</link>
       <pubDate>Fri, 05 Nov 2021 05:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/write-tests-with-sentences-first-code-second/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/write-tests-with-sentences-first-code-second/</guid>
       <description>Photo by Ben White on Unsplash
 Problem In software, naming is often said to be one of the hardest parts. From what I’ve seen, writing tests is right up there too! I see people struggle with tests all the time. They get overwhelmed or frustrated and just skip it, which is a bad thing for everybody.
 Naming is hard because developers are rarely given a guide to naming. Over time, they learn tips and tricks and develop strategies to make naming easier.</description>
     </item>
-    
+
     <item>
       <title>Use React and Feature Flags To Roll Out New UI Components</title>
-      <link>http://localhost:1313/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</link>
       <pubDate>Sat, 30 Oct 2021 05:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/use-react-and-feature-flags-to-roll-out-new-ui-components/</guid>
       <description>Recently, at Parallax, my team and I released a sweeping update to our user interface. We updated buttons, inputs, selects, dialogs, and many other visual elements. What follows is an explanation of one small part of that effort.
  Problem In the summer of 2021, my team and I were presented with a few interesting challenges. The next set of work would entail:
  Update many of our shared components with new styles (buttons, inputs, selects, dialogs, etc) Many of these updates would affect design, but we would also take the opportunity to slim down component APIs We should plan on not being able to release everything at once.</description>
     </item>
-    
+
   </channel>
 </rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Canvas on nategeslin.com</title>
-    <link>http://localhost:1313/tags/canvas/</link>
+    <link>http://nate-geslin-dot-com.vercel.app/tags/canvas/</link>
     <description>Recent content in Canvas on nategeslin.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 06:00:00 +0000</lastBuildDate><atom:link href="http://nate-geslin-dot-com.vercel.app/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why We Use Layered HTML Canvases At OpenScope</title>
-      <link>http://localhost:1313/posts/why-we-use-layered-html-canvases-at-openscope/</link>
+      <link>http://nate-geslin-dot-com.vercel.app/posts/why-we-use-layered-html-canvases-at-openscope/</link>
       <pubDate>Mon, 22 Nov 2021 06:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/why-we-use-layered-html-canvases-at-openscope/</guid>
+
+      <guid>http://nate-geslin-dot-com.vercel.app/posts/why-we-use-layered-html-canvases-at-openscope/</guid>
       <description>OpenScope Air Traffic Control Simulator
 For several years, I was an active maintainer of a project called OpenScope. OpenScope is a browser-based air traffic control simulator driven by JavaScript, HTML canvas, and json. There is no back end, it’s all done in the browser. It’s also open source, anybody can contribute as long as you follow the guidelines and can speak aviation.
 Problem When I first started contributing to the project, there were issues with performance.</description>
     </item>
-    
+
   </channel>
 </rss>
