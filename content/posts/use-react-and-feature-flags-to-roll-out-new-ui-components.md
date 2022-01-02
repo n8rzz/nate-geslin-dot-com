@@ -7,20 +7,21 @@ title = "Use React and Feature Flags To Roll Out New UI Components"
 type = ""
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/1600/0*sViPWB4sXg5xE1TT)
 
 Recently, at [Parallax](https://www.getparallax.com/), my team and I released a sweeping update to our user interface. We updated buttons, inputs, selects, dialogs, and many other visual elements. What follows is an explanation of one small part of that effort.
 
-***
+---
 
 ### Problem
 
 In the summer of 2021, my team and I were presented with a few interesting challenges. The next set of work would entail:
 
-* Update many of our shared components with new styles (buttons, inputs, selects, dialogs, etc)
-* Many of these updates would affect design, but we would also take the opportunity to slim down component APIs
-* We should plan on _not_ being able to release everything at once. Doing so would mean a massive change and a risky release
-* We should be able to switch between old and new component variations without code changes
+- Update many of our shared components with new styles (buttons, inputs, selects, dialogs, etc)
+- Many of these updates would affect design, but we would also take the opportunity to slim down component APIs
+- We should plan on _not_ being able to release everything at once. Doing so would mean a massive change and a risky release
+- We should be able to switch between old and new component variations without code changes
 
 Let’s dig into this a little bit.
 
@@ -38,7 +39,7 @@ With a Feature Flag solution already in place, the next major challenge was to f
 
 Now, with a general direction decided on, we needed to figure out some way to switch between an old or new component variation on demand, **without having to change any code**. Our UI is built on [React](https://reactjs.org/) ([Next.js](https://nextjs.org/) specifically), so this actually turned out to be a pretty short adventure.
 
-***
+---
 
 ### Solution
 
@@ -54,7 +55,7 @@ Using `UiExperiment` in the app is now quite simple. In places where we will swi
 
 Example usage of UiExperiment component
 
-***
+---
 
 Wait a minute, let’s take a look at those `props` again.
 
@@ -92,7 +93,7 @@ One benefit of `UiExperiment` was that the new component versions would already 
 
 We still aren’t happy with the prop names `a` and `b`. My team and I take naming very seriously and these two names still feel like… Well, these could have been better.
 
-***
+---
 
 ### Conclusion
 
@@ -104,13 +105,13 @@ If you want to [tinker](https://medium.com/counterarts/tinker-with-purpose-9fb4f
 
 Have you done anything like this before? Is there a better way? I’d love to hear about it, let me know in the comments!
 
-***
+---
 
 #### References
 
-* [https://martinfowler.com/articles/feature-toggles.html](https://martinfowler.com/articles/feature-toggles.html "https://martinfowler.com/articles/feature-toggles.html")
-* [https://launchdarkly.com/](https://launchdarkly.com/ "https://launchdarkly.com/")
-* [https://reactjs.org/](https://reactjs.org/ "https://reactjs.org/")
-* [https://nextjs.org/](https://nextjs.org/ "https://nextjs.org/")
-* [https://medium.com/counterarts/tinker-with-purpose-9fb4f5a52459](https://medium.com/counterarts/tinker-with-purpose-9fb4f5a52459 "https://medium.com/counterarts/tinker-with-purpose-9fb4f5a52459")
-* [https://codesandbox.io/s/ui-experiment-example-eoj94](https://codesandbox.io/s/ui-experiment-example-eoj94 "https://codesandbox.io/s/ui-experiment-example-eoj94")
+- [https://martinfowler.com/articles/feature-toggles.html](https://martinfowler.com/articles/feature-toggles.html "https://martinfowler.com/articles/feature-toggles.html")
+- [https://launchdarkly.com/](https://launchdarkly.com/ "https://launchdarkly.com/")
+- [https://reactjs.org/](https://reactjs.org/ "https://reactjs.org/")
+- [https://nextjs.org/](https://nextjs.org/ "https://nextjs.org/")
+- [https://medium.com/counterarts/tinker-with-purpose-9fb4f5a52459](https://medium.com/counterarts/tinker-with-purpose-9fb4f5a52459 "https://medium.com/counterarts/tinker-with-purpose-9fb4f5a52459")
+- [https://codesandbox.io/s/ui-experiment-example-eoj94](https://codesandbox.io/s/ui-experiment-example-eoj94 "https://codesandbox.io/s/ui-experiment-example-eoj94")

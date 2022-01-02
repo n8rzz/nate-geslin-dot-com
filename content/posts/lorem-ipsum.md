@@ -1,11 +1,12 @@
----
-title: "Lorem Ipsum"
-date: 2021-11-24T19:36:23-06:00
-tags: ["xyz", "def"]
-type: "post"
-image: "/images/lorem-ipsum/quick-fox.png"
-draft: true
----
++++
+date = 2021-11-24T19:36:23-06:00
+draft = true
+image = "/images/lorem-ipsum/quick-fox.png"
+tags = ["xyz", "def"]
+title = "Lorem Ipsum"
+type = "post"
+
++++
 
 # Heading 1
 

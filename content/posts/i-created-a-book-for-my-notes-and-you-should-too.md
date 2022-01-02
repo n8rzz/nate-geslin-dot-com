@@ -7,6 +7,7 @@ title = "I Created a Book for My Notes and You Should Too!"
 type = "post"
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/1600/0*uPHy-czUw1DMh1q-)Photo by [Thought Catalog](https://unsplash.com/@thoughtcatalog?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 It started like this: I was a young Software Engineer and I wrote things down. My mentor told me to write things down and that it was a great habit to get into.
@@ -17,7 +18,7 @@ That way I don’t have to burden myself with remembering everything, instead I 
 
 The first command will list all running processes on a `PORT_NUMBER.` The second will shutdown a process by `PID` that we found with the first command. This is handy for when a process doesn’t shut down correctly. Like if a terminal window is accidentally closed and your web server is still running.
 
-***
+---
 
 My notebook worked for a time, but that quickly became messy. It hard to get at if I left my notebook somewhere. It was messy, because I have horrible handwriting. And, finally, a handwritten notebook is not the best place for code snippets.
 
@@ -53,9 +54,9 @@ It’s clean and it’s simple.
 
 Do you keep notes? How do you manage them? I’d love to read about your solutions in the comments!
 
-***
+---
 
 #### References:
 
-* [https://gist.github.com/](https://gist.github.com/ "https://gist.github.com/")
-* [https://www.gitbook.com/](https://www.gitbook.com/ "https://www.gitbook.com/")
+- [https://gist.github.com/](https://gist.github.com/ "https://gist.github.com/")
+- [https://www.gitbook.com/](https://www.gitbook.com/ "https://www.gitbook.com/")

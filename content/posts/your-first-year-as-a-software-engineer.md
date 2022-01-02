@@ -7,6 +7,7 @@ title = "Your First Year As A Software Engineer"
 type = "post"
 
 +++
+
 ![](https://cdn-images-1.medium.com/max/1600/0*7V5lEbSLEwQrXVkr)Photo by [Jasmin Sessler](https://unsplash.com/@jasmin_sessler?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 You made it past the [**interview**](https://nategeslin.medium.com/what-i-look-for-when-i-hire-software-engineers-febf653aa95b) and you signed the offer. You’re hired! Now you have a shiny new laptop in front of you and are about to take on the world of software engineering…
@@ -17,7 +18,7 @@ Software engineering is not like other jobs, this is a whole new world.
 
 When I landed my first engineering job, I had spent the previous 10 years in manufacturing. Like, driving a forklift and planning production runs. Getting a job as a software engineer was more than a little bit of a culture shock for me. If you’re fresh out of a boot camp, or entering the software game for the first time, it may be a culture shock for you too.
 
-***
+---
 
 Here are some things you should expect for your first year as a software engineer, and some tips to help make for a smooth ride.
 
@@ -41,13 +42,13 @@ These cliché quotes are tacky but true. When you are faced with a problem that 
 
 **Bits**
 
-* Text and Password input
-* Input Label
-* Hint Text
-* Submit Buttons
-* Form Layout
-* Api interactions
-* Error State(s)
+- Text and Password input
+- Input Label
+- Hint Text
+- Submit Buttons
+- Form Layout
+- Api interactions
+- Error State(s)
 
 When you break work down into smaller parts, it’s less scary. You’ve worked with a text input before, how about a password input? You know how to build a basic layout, code that up first and get it working with the API first. Then plug in the styles and make it look right.
 
@@ -139,12 +140,12 @@ Rest is the only cure for burnout. Unplug and go to bed!
 
 Your first year as an engineer is going to be a wild ride. Don’t panic. Your first year is going to be filled with learning, trials and tribulations. When you come out the other side, you are going to be stronger than you ever thought possible!
 
-***
+---
 
 #### References
 
-* [https://nategeslin.medium.com/what-i-look-for-when-i-hire-software-engineers-febf653aa95b](https://nategeslin.medium.com/what-i-look-for-when-i-hire-software-engineers-febf653aa95b "https://nategeslin.medium.com/what-i-look-for-when-i-hire-software-engineers-febf653aa95b")
-* [https://rubberduckdebugging.com/](https://rubberduckdebugging.com/ "https://rubberduckdebugging.com/")
-* [https://letmegooglethat.com/?q=finite+state+machine](https://letmegooglethat.com/?q=finite+state+machine "https://letmegooglethat.com/?q=finite+state+machine")
-* [https://www.healthline.com/health/mental-health/imposter-syndrome](https://www.healthline.com/health/mental-health/imposter-syndrome "https://www.healthline.com/health/mental-health/imposter-syndrome")
-* [https://www.healthline.com/health/tips-for-identifying-and-preventing-burnout](https://www.healthline.com/health/tips-for-identifying-and-preventing-burnout "https://www.healthline.com/health/tips-for-identifying-and-preventing-burnout")
+- [https://nategeslin.medium.com/what-i-look-for-when-i-hire-software-engineers-febf653aa95b](https://nategeslin.medium.com/what-i-look-for-when-i-hire-software-engineers-febf653aa95b "https://nategeslin.medium.com/what-i-look-for-when-i-hire-software-engineers-febf653aa95b")
+- [https://rubberduckdebugging.com/](https://rubberduckdebugging.com/ "https://rubberduckdebugging.com/")
+- [https://letmegooglethat.com/?q=finite+state+machine](https://letmegooglethat.com/?q=finite+state+machine "https://letmegooglethat.com/?q=finite+state+machine")
+- [https://www.healthline.com/health/mental-health/imposter-syndrome](https://www.healthline.com/health/mental-health/imposter-syndrome "https://www.healthline.com/health/mental-health/imposter-syndrome")
+- [https://www.healthline.com/health/tips-for-identifying-and-preventing-burnout](https://www.healthline.com/health/tips-for-identifying-and-preventing-burnout "https://www.healthline.com/health/tips-for-identifying-and-preventing-burnout")
